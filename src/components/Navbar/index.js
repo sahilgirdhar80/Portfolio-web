@@ -181,7 +181,7 @@ const Navbar = () => {
             LinkedIn
           </Button>
           <Button
-            href="https://drive.file.com/file/d/1SkvDoPVIEKpuJDYQE4Alee8YzIO-d2Pj/view?usp=sharing"
+            href="https://drive.google.com/file/d/1eAu1zPpkNoY9z2DbV7rlk9WlWOfkchph/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -207,7 +207,7 @@ const Navbar = () => {
             Education
           </MobileMenuLinks>
           <Button
-            href="https://github.com/Mobeenkhxn01"
+            href="https://github.com/sahilgirdhar80"
             target="_blank"
             rel="noopener noreferrer"
             style={{ background: theme.primary, color: "white" }}
@@ -215,7 +215,7 @@ const Navbar = () => {
             Github
           </Button>
           <Button
-            href="https://www.linkedin.com/in/Mobeenkhxn01/"
+            href="https://www.linkedin.com/in/sahilgirdhar529"
             target="_blank"
             rel="noopener noreferrer"
             style={{ background: theme.primary, color: "white" }}
