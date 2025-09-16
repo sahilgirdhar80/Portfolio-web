@@ -181,7 +181,7 @@ const Navbar = () => {
             LinkedIn
           </Button>
           <Button
-            href="https://drive.file.com/file/d/1SkvDoPVIEKpuJDYQE4Alee8YzIO-d2Pj/view?usp=sharing"
+            href="https://drive.google.com/file/d/1SkvDoPVIEKpuJDYQE4Alee8YzIO-d2Pj/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
